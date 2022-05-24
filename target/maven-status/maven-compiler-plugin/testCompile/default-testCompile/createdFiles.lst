@@ -1,0 +1,13 @@
+com/appiumAutomation/utils/extentreports/ExtentTestManager.class
+com/appiumAutomation/pages/HomePage.class
+com/appiumAutomation/pages/BasePage.class
+com/appiumAutomation/pages/WorkOrdersListPage.class
+com/appiumAutomation/utils/logs/Log.class
+com/appiumAutomation/utils/extentreports/ExtentManager.class
+com/appiumAutomation/pages/WorkOrderDetailsPage.class
+com/appiumAutomation/pages/LoginPage.class
+com/appiumAutomation/utils/listeners/TestListener.class
+com/appiumAutomation/tests/FixitTest.class
+com/appiumAutomation/pages/SubmitAnIssuePage.class
+com/appiumAutomation/tests/BaseTest.class
+com/appiumAutomation/pages/SettingsPage.class

@@ -1,0 +1,39 @@
+[INFO ] 2022-05-19 19:35:58.958 [main] Log - Method Command line test
+[INFO ] 2022-05-19 19:35:59.731 [main] Log - loginToAppTest test is starting.
+[INFO ] 2022-05-19 19:35:59.731 [main] Log - loginToAppTest test skipped.
+[INFO ] 2022-05-19 19:35:59.993 [main] Log - loginToAppTest test failed
+[INFO ] 2022-05-19 19:36:00.024 [main] Log - Method Command line test
+[INFO ] 2022-05-19 19:36:09.617 [main] Log - Method Command line test
+[INFO ] 2022-05-19 19:36:10.123 [main] Log - loginToAppTest test is starting.
+[INFO ] 2022-05-19 19:36:10.124 [main] Log - loginToAppTest test skipped.
+[INFO ] 2022-05-19 19:36:10.335 [main] Log - loginToAppTest test failed
+[INFO ] 2022-05-19 19:36:10.364 [main] Log - Method Command line test
+[INFO ] 2022-05-19 19:37:24.612 [main] Log - Method Fixit Tests on Android
+[INFO ] 2022-05-19 19:37:25.342 [main] Log - loginToAppTest test is starting.
+[INFO ] 2022-05-19 19:37:25.342 [main] Log - loginToAppTest test skipped.
+[INFO ] 2022-05-19 19:37:25.625 [main] Log - loginToAppTest test failed
+[INFO ] 2022-05-19 19:37:25.627 [main] Log - Method Fixit Tests on Android
+[INFO ] 2022-05-19 19:38:03.488 [main] Log - Method Fixit Tests on Android
+[INFO ] 2022-05-19 19:38:09.970 [main] Log - loginToAppTest test is starting.
+[INFO ] 2022-05-19 19:38:10.268 [main] Log - Waiting for element Please Sign In layout visibility
+[INFO ] 2022-05-19 19:38:12.281 [main] Log - Field: userid value: vn53f48
+[INFO ] 2022-05-19 19:38:13.355 [main] Log - Field: password value: M900624$a03
+[INFO ] 2022-05-19 19:38:14.405 [main] Log - Field: store/club# value: 88
+[INFO ] 2022-05-19 19:38:15.476 [main] Log - Waiting for element Sign in button visibility
+[INFO ] 2022-05-19 19:38:16.643 [main] Log - Click Sign in button
+[INFO ] 2022-05-19 19:38:16.644 [main] Log - Waiting for element Fixit Title visibility
+[INFO ] 2022-05-19 19:38:18.066 [main] Log - loginToAppTest test failed
+[INFO ] 2022-05-19 19:38:18.352 [main] Log - logoutTest test is starting.
+[INFO ] 2022-05-19 19:38:18.353 [main] Log - Waiting for element Fixit Title visibility
+[INFO ] 2022-05-19 19:38:18.414 [main] Log - Waiting for element Settings visibility
+[INFO ] 2022-05-19 19:38:27.605 [main] Log - Click Settings
+[INFO ] 2022-05-19 19:38:27.606 [main] Log - Waiting for element Log Out visibility
+[INFO ] 2022-05-19 19:38:28.807 [main] Log - Click Log Out
+[INFO ] 2022-05-19 19:38:28.807 [main] Log - logoutTest test succeed
+[INFO ] 2022-05-19 19:38:29.093 [main] Log - viewAllWorkOrders test is starting.
+[INFO ] 2022-05-19 19:38:29.094 [main] Log - Waiting for element Fixit Title visibility
+[ERROR] 2022-05-19 19:39:19.511 [main] Log - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: (//android.widget.ImageView)[1]' (tried for 50 second(s) with 500 milliseconds interval)
+[INFO ] 2022-05-19 19:39:19.511 [main] Log - Waiting for element View all Work Orders link visibility
+[ERROR] 2022-05-19 19:40:09.611 [main] Log - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: (//android.widget.TextView[contains(@text,'View All')])[1]' (tried for 50 second(s) with 500 milliseconds interval)
+[INFO ] 2022-05-19 19:40:09.663 [main] Log - viewAllWorkOrders test failed
+[INFO ] 2022-05-19 19:40:10.074 [main] Log - Method Fixit Tests on Android

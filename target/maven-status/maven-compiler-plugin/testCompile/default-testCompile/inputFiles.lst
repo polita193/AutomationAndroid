@@ -1,0 +1,13 @@
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/tests/BaseTest.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/pages/SubmitAnIssuePage.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/pages/WorkOrderDetailsPage.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/utils/extentreports/ExtentTestManager.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/pages/SettingsPage.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/pages/LoginPage.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/utils/extentreports/ExtentManager.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/utils/logs/Log.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/utils/listeners/TestListener.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/tests/FixitTest.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/pages/BasePage.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/pages/HomePage.java
+/Users/paocastro/Documents/Walmart/FixIT-Automation/src/test/java/com/appiumAutomation/pages/WorkOrdersListPage.java

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Suite">
+   <listeners>
+      <listener class-name="com.appiumAutomation.utils.listeners.TestListener"/>
+   </listeners>
+   <test name = "Fixit Tests on Android">
+      <parameter name="deviceName" value="android"></parameter>
+      <parameter name="type" value="mobile"></parameter>
+      <classes>
+         <class name = "com.appiumAutomation.tests.FixitTest" />
+      </classes>
+   </test>
+</suite>
